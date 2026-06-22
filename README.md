@@ -124,14 +124,6 @@ My goal is to keep developing robust autonomous robotic systems that combine emb
 
 ---
 
-## GitHub Stats
-
-![Jesús GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusMBhuy\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusMBhuy\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
 ## Contact
 
 * LinkedIn: [linkedin.com/in/jesusjmartinezh](https://www.linkedin.com/in/jesusjmartinezh)
