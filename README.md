@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a Robotics and Digital Systems Engineering student at Tecnológico de Monterrey, focused on autonomous systems, embedded software, computer vision, and AI-driven robotics.
+I am a Robotics and Engineere graduate from Tecnológico de Monterrey, focused on autonomous systems, embedded software, computer vision, and AI-driven robotics.
 
 My work is centered on building complete robotic systems, from low-level embedded control and sensor integration to perception, planning, navigation, and real-world deployment. I have experience working with ROS 2, C++, Python, SLAM, computer vision, reinforcement learning, and embedded communication protocols.
 
